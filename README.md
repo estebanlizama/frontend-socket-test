@@ -11,6 +11,12 @@ Este repositorio contiene la implementación de una prueba técnica que evalúa 
 - **TypeScript** estricto en ambos proyectos.
 - **Manejo de estado robusto**: `Zustand` (React) y `Pinia` (Vue).
 
+## 🚀 Demos en Vivo
+
+- **React App**: [https://frontend-socket-test-react-chat.vercel.app/](https://frontend-socket-test-react-chat.vercel.app/)
+- **Vue App**: [https://frontend-socket-test-vue-chat.vercel.app/](https://frontend-socket-test-vue-chat.vercel.app/)
+- **Backend (API/Socket)**: [https://nestjs-socket-server.onrender.com](https://nestjs-socket-server.onrender.com)
+
 ---
 
 ## 🏛️ Arquitectura y Decisiones Técnicas

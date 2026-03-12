@@ -2,6 +2,8 @@
 
 Implementación en React para la prueba técnica de Chat Realtime.
 
+**Demo en Vivo:** [https://frontend-socket-test-react-chat.vercel.app/](https://frontend-socket-test-react-chat.vercel.app/)
+
 ## 🚀 Inicio rápido
 
 1. **Configuración**: Asegúrate de tener un archivo `.env` basado en `.env.example`.
